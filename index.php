@@ -1,2 +1,2 @@
 <?php
-回声 lll;
+echo lll;
